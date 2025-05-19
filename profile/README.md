@@ -15,7 +15,7 @@
 # 2. Team Members (팀원 및 팀 소개)
 | 김주호 | 최서연 | 오예은 | 이현서 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/a6695d74-4c62-47eb-9f31-9aff60d0a8ac" alt="김주호" width="150"> | <img src="https://github.com/user-attachments/assets/f0047287-c2ff-4ddd-ada6-8837a2eda696" alt="최서연" width="150"> | <img src="https://github.com/user-attachments/assets/8258aefa-d5c0-4f7b-99e0-7d52b44b335e" alt="오예은" width="150"> | <img src="https://github.com/user-attachments/assets/8258aefa-d5c0-4f7b-99e0-7d52b44b335e" alt="이현서" width="150"> |
+| <img src="https://github.com/user-attachments/assets/a6695d74-4c62-47eb-9f31-9aff60d0a8ac" alt="김주호" width="150"> | <img src="https://github.com/user-attachments/assets/f0047287-c2ff-4ddd-ada6-8837a2eda696" alt="최서연" width="150"> | <img src="https://github.com/user-attachments/assets/f7d24b04-264b-4568-a52e-13924849a86e" alt="오예은" width="150"> | <img src="https://github.com/user-attachments/assets/746ae3da-1619-49de-b1f9-23ae2137d6c1" alt="이현서" width="150"> |
 | BE | BE | FE | FE |
 | [GitHub](https://github.com/kimjuho1559) | [GitHub](https://github.com/Seoyeonni) | [GitHub](https://github.com/Oyeeun03) | [GitHub](https://github.com/geomunoreum) |
 
@@ -60,8 +60,8 @@
 |-----------------|-----------------|-----------------|
 | 김주호    |  <img src="https://github.com/user-attachments/assets/a6695d74-4c62-47eb-9f31-9aff60d0a8ac" alt="김주호" width="100"> | <ul><li>DB 설계 및 구현</li><li>AI 프롬프트 개발 및 적용</li><li>REST API 개발 및 서버 구축</li></ul>     |
 | 최서연   |  <img src="https://github.com/user-attachments/assets/f0047287-c2ff-4ddd-ada6-8837a2eda696" alt="최서연" width="100">| <ul><li>DB 설계 및 구현</li><li>REST API 개발 및 서버 구축 </li><li>Flutter 기반 UI 구현</li></ul> |
-| 오예은   |  <img src="https://github.com/user-attachments/assets/8258aefa-d5c0-4f7b-99e0-7d52b44b335e" alt="오예은" width="100">    |<ul><li>Flutter 기반 UI 구현</li> |
-| 이현서    |  <img src="https://github.com/user-attachments/assets/8258aefa-d5c0-4f7b-99e0-7d52b44b335e" alt="이현서" width="100">    | <ul><li>Flutter 기반 UI 설계 및 구현</li>    |
+| 오예은   |  <img src="https://github.com/user-attachments/assets/f7d24b04-264b-4568-a52e-13924849a86e" alt="오예은" width="100">    |<ul><li>Flutter 기반 UI 구현</li> |
+| 이현서    |  <img src="https://github.com/user-attachments/assets/746ae3da-1619-49de-b1f9-23ae2137d6c1" alt="이현서" width="100">    | <ul><li>Flutter 기반 UI 설계 및 구현</li>    |
 
 <br/>
 <br/>
