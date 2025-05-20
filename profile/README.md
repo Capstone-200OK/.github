@@ -1,5 +1,4 @@
-<a href="" target="_blank">
-<img src="" alt="배너" width="100%"/>
+<img src="https://github.com/user-attachments/assets/6f7a210d-992b-470e-9816-ce4d7d040e77" alt="배너" width="100%"/>
 </a>
 
 <br/>
