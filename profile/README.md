@@ -3,14 +3,15 @@
 <br/>
 <br/>
 
-# 1. Project Overview (프로젝트 개요)
+<h3> 1. Project Overview (프로젝트 개요) </h3>
 - 프로젝트 이름: SORTYFILE
 - 프로젝트 설명: AI를 활용한 파일 자동 분류 프로그램
 
 <br/>
 <br/>
 
-# 2. Team Members (팀원 및 팀 소개)
+<h3> 2. Team Members (팀원 및 팀 소개)</h3>
+
 | 김주호 | 최서연 | 오예은 | 이현서 |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/a6695d74-4c62-47eb-9f31-9aff60d0a8ac" alt="김주호" width="150"> | <img src="https://github.com/user-attachments/assets/f0047287-c2ff-4ddd-ada6-8837a2eda696" alt="최서연" width="150"> | <img src="https://github.com/user-attachments/assets/f7d24b04-264b-4568-a52e-13924849a86e" alt="오예은" width="150"> | <img src="https://github.com/user-attachments/assets/746ae3da-1619-49de-b1f9-23ae2137d6c1" alt="이현서" width="150"> |
@@ -20,7 +21,8 @@
 <br/>
 <br/>
 
-# 3. Key Features (주요 기능)
+<h3> 3. Key Features (주요 기능) </h3>
+
 - **회원가입**:
   - 회원가입 시 DB에 유저정보가 등록됩니다.
 
@@ -53,7 +55,8 @@
 <br/>
 <br/>
 
-# 4. Tasks & Responsibilities (작업 및 역할 분담)
+<h3> 4. Tasks & Responsibilities (작업 및 역할 분담)</h3>
+
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | 김주호    |  <img src="https://github.com/user-attachments/assets/a6695d74-4c62-47eb-9f31-9aff60d0a8ac" alt="김주호" width="100"> | <ul><li>DB 설계 및 구현</li><li>AI 프롬프트 개발 및 적용</li><li>REST API 개발 및 서버 구축</li></ul>     |
@@ -64,8 +67,9 @@
 <br/>
 <br/>
 
-# 5. Technology Stack (기술 스택)
-## 5.1 Language
+<h3> 5. Technology Stack (기술 스택)</h3>
+
+#### 5.1 Language
 |  |  |
 |-----------------|-----------------|
 | Dart    |<img src="https://github.com/user-attachments/assets/da801d6d-782e-42dc-8b91-2d9c5272d7f2" alt="Dart" width="100">| 
@@ -74,14 +78,14 @@
 
 <br/>
 
-## 5.2 Frotend
+#### 5.2 Frotend
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | Flutter    |  <img src="https://github.com/user-attachments/assets/84c5f290-1818-4e0d-a0f0-34902c84fd49" alt="Flutter" width="100"> | 3.29.2    |
 
 <br/>
 
-## 5.3 Backend
+#### 5.3 Backend
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | Spring Boot    |  <img src="https://github.com/user-attachments/assets/8a213da4-63df-4e4d-b7cb-42a0f399a367" alt="Spring Boot" width="100">    | 3.4.3    |
@@ -90,7 +94,7 @@
 
 <br/>
 
-## 5.4 Cooperation
+#### 5.4 Cooperation
 |  |  |
 |-----------------|-----------------|
 | Git    |  <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">    |
@@ -99,10 +103,10 @@
 
 <br/>
 
-# 6. Project Structure (프로젝트 구조)
+<h3> 6. Project Structure (프로젝트 구조) </h3>
 <img src="https://github.com/user-attachments/assets/ec45f74d-9ad8-47cf-bcf0-7bd3059ed83f">
 <br/>
 
-# 7. Introduction to the work (작품 소개)
+<h3> 7. Introduction to the work (작품 소개)</h3>
 <img src="https://github.com/user-attachments/assets/b73910af-7af1-44f8-a2d1-cbc83b565504">
 <br/>
