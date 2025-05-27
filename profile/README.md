@@ -110,3 +110,7 @@
 <h3> 7. Introduction to the work (작품 소개)</h3>
 <img src="https://github.com/user-attachments/assets/b73910af-7af1-44f8-a2d1-cbc83b565504">
 <br/>
+
+<h3> 8. Demonstration video (시연 영상)</h3>
+
+[![Live Demo](https://github.com/user-attachments/assets/13b53d76-f0ab-4888-b4c3-db0c41c20df2)](https://youtu.be/tNpt7dMlkeM)
